@@ -1,0 +1,1 @@
+This project covers OOP concepts. It has an Interface, 2 Classes and a main application.
